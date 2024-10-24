@@ -1,4 +1,3 @@
-﻿# O365Integration-python
 # O365Integration-python
 ![Resim Açıklaması](images/ekran.png)
 
@@ -74,3 +73,4 @@ OneDrive erişimi için: onedrive_all
 
 6. Token Depolama
 İlk kimlik doğrulamanın ardından jeton, gelecek oturumlarda yeniden kullanılmak üzere saklanacaktır. Üretim ortamlarında belirteç depolamayı güvenli bir şekilde yönettiğinizden emin olun.
+sağlıcakla ..:: Önder Mönder ::..
